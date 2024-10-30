@@ -1,12 +1,12 @@
 {
-  "name": "JavaScript ChatBot",
-  "description": "A Simple & Powerful ChatBot in NodeJs",
+  "name": "Auora AI",
+  "description": "A Simple & Powerful",
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
   "author": {
-    "name": "DevXprite",
-    "email": "devXprite@gmail.com"
+    "name": "Deadfallz",
+    "email": "IamWinix@gmail.com"
   },
   "repository": {
     "type": "git",
